@@ -33,3 +33,8 @@ Various graphs are also plotted to better understand the results. Graphs of resu
 The **actual vs predicted price values** of the test data are stored in the CSV files.
 
 It was observed that the GRU model performed better in capturing the short-term changes in stock prices compared to LSTM.
+
+## Future Work
+While this project provides a strong foundation for stock price prediction, few of the potential areas for future work include:
+- Using additional features like - Trading Volume, Low and High stock prices or Sentiment value of stock news.
+- Exploring and experimenting with more advanced deep learning architectures like Transformers with attention mechanisms or hybrid models.
